@@ -11,6 +11,16 @@ public class Employee {
 
 	}
 	
+	private void gitMethod1() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void gitMethod2() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static void main(String[] args) {
 		
 		
